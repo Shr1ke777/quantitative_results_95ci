@@ -1,4 +1,4 @@
-<h2 align="center">More quantitative results with 95%CI
+<h1 align="center">More quantitative results with 95%CI</h1>
 
 
 
